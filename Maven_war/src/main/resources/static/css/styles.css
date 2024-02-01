@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e86041; /* Цвет фона страницы, можно изменить на свой вкус */
+}
+
+.center-text {
+    text-align: center;
+    font-family: Arial, sans-serif; /* Выберите подходящий шрифт */
+    font-size: 42px; /* Размер шрифта, можно изменить по желанию */
+    color: #333; /* Цвет текста, можно изменить на свой вкус */
+}
